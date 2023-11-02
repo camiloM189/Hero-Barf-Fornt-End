@@ -1,0 +1,285 @@
+body{
+  /* background-image: radial-gradient(circle, 
+    #EE891E, 
+    #d1a52c); */
+    /* background-color: #EE891E; */
+    font-family: 'Angels Cookie', Regular;
+    background-image: url('prueba-background.jpg')
+
+}
+.quieneSomos{
+  position: relative;
+  /* top: -7%; */
+  height: 100vh;
+}
+
+.Aumenta-la-energia-del-animal{
+  left: 30%!important;
+}
+.se-mejora-el-pelaje{
+  right: 12%!important;
+}
+.nuestro-perro{
+  left: 11%!important;
+}
+.el-sistema-inmunologico {
+  left: 20%!important;
+}
+.logo{
+  max-width: 100%;
+    height: auto;
+}
+.barra-de-navegador{
+  width: 7%;
+}
+.footer{
+  color: #EE891E;
+}
+.beneficios-1{
+  margin-top: 0%;
+}
+.beneficios-2{
+  margin-top: 0%;
+}
+.beneficios-div2{
+  margin-top: 0%;
+}
+.titulo-beneficios{
+  margin-bottom: -13rem!important;
+}
+
+
+@media (min-width: 280px) {
+  .beneficios-1{
+    margin-top: 22%;
+  }
+  .beneficios-2 {
+    margin-top: -115%;
+    width: 73%;
+  }
+  .beneficios-div2{
+    margin-top: 40%;
+  }
+  .beneficios-3 {
+    margin-top: -58%;
+  }
+  .beneficios-div3{
+    margin-top: 20%;
+  }
+  .nuestro-perro{
+    left: 6%!important;
+  }
+  .beneficios-4{
+    margin-top: -88%;
+  }
+  .beneficios-div4{
+    margin-top: 20%;
+  }
+  .Aumenta-la-energia-del-animal {
+    left: 17%!important;
+  }
+  .se-mejora-el-pelaje {
+  right: 11%!important;
+  }
+  .el-sistema-inmunologico {
+    left: 7%!important;
+}
+ 
+}
+
+@media (min-width: 360px) {
+  .beneficios-1{
+    margin-top: 22%;
+  }
+  .beneficios-2{
+    margin-top: -98%;
+  }
+  .beneficios-div2{
+    margin-top: 27%;
+  }
+  .se-mejora-el-pelaje {
+     right: 7%!important;
+  }
+  .beneficios-3{
+    margin-top: -48%;
+  }
+  .beneficios-div3{
+    margin-top: 20%;
+  }
+  .nuestro-perro{
+    left: 6%!important;
+  }
+  .beneficios-4{
+    margin-top: -88%;
+  }
+  .beneficios-div4{
+    margin-top: 20%;
+  }
+}
+@media (min-width: 375px) {
+ 
+}
+@media (min-width: 412px) {
+ 
+.Aumenta-la-energia-del-animal {
+    left: 27%!important;
+}
+.se-mejora-el-pelaje {
+  right: 12%!important;
+}
+.nuestro-perro {
+  left: 10%!important;
+}
+.el-sistema-inmunologico {
+  left: 23%!important;
+}
+}
+@media(min-width: 540px){
+  .beneficios-2 {
+    margin-top: -92%;
+}
+.se-mejora-el-pelaje {
+  right: 18%!important;
+  
+}
+.nuestro-perro {
+  left: 20%!important;
+}
+.el-sistema-inmunologico {
+    left: 31%!important;
+}
+.beneficios-4 {
+  margin-top: -85%;
+}
+
+}
+@media (min-width: 576px) {
+ 
+
+}
+
+
+@media (min-width: 768px) { 
+  .Aumenta-la-energia-del-animal {
+    left: 35%!important;
+  }
+  .beneficios-2 {
+    margin-top: -89%;
+  }
+  .se-mejora-el-pelaje {
+    right: 24%!important;
+  }
+  .nuestro-perro {
+    left: 28%!important;
+  }   
+  .beneficios-4 {
+    margin-top: -84%;
+  }
+  .el-sistema-inmunologico {
+    left: 35%!important;
+  }
+}
+@media(min-width: 820px) {
+  .Aumenta-la-energia-del-animal {
+    left: 35%!important;
+  }
+  .beneficios-2 {
+    margin-top: -89%;
+  }
+  .se-mejora-el-pelaje {
+    right: 24%!important;
+  }
+  .nuestro-perro {
+    left: 28%!important;
+  }   
+  .beneficios-4 {
+    margin-top: -84%;
+  }
+  .el-sistema-inmunologico {
+    left: 35%!important;
+  }
+}
+
+@media (min-width: 992px) { 
+  .beneficios-1{
+    margin-top: 0%;
+  }
+  .beneficios-2{
+    margin-top: 0%;
+  }
+  .beneficios-3{
+    margin-top: 0%;
+  }
+  .beneficios-4{
+    margin-top: 0%;
+  }
+  .beneficios-div2{
+    margin-top: 0%;
+  }
+  .beneficios-div3{
+    margin-top: 0%;
+  }
+  .beneficios-div4{
+    margin-top: 0%;
+  }
+  .titulo-beneficios{
+    margin-bottom: -13rem!important;
+  }
+  .Aumenta-la-energia-del-animal{
+    left: 30%!important;
+  }
+  .se-mejora-el-pelaje{
+    right: 12%!important;
+  }
+  .nuestro-perro{
+    left: 11%!important;
+  }
+  .el-sistema-inmunologico {
+    left: 20%!important;
+  }
+
+}
+
+@media (min-width: 1200px) {
+ 
+  
+  
+  }
+ @media (min-width: 1366px) { 
+    .beneficios-1{
+      margin-top: 0%;
+    }
+    .beneficios-2{
+      margin-top: 0%;
+    }
+    .beneficios-div2{
+      margin-top: 0%;
+    }
+    .titulo-beneficios{
+      margin-bottom: -13rem!important;
+    }
+    
+    }
+@media (min-width: 1400px) { 
+  .beneficios-1{
+    margin-top: 0%;
+  }
+  .beneficios-2{
+    margin-top: 0%;
+  }
+  .beneficios-div2{
+    margin-top: 0%;
+  }
+  .titulo-beneficios{
+    margin-bottom: -13rem!important;
+  }
+  
+  }
+@media(min-width:1600px){
+  .el-sistema-inmunologico {
+    left: 32%!important;
+  }
+}
+@media ( min-width:1920px){
+      
+  }
