@@ -126,7 +126,9 @@ export const HomePage = () => {
     <div class="carousel-item"> 
       <img src="carrusel2-100.jpg" class="d-block w-100 img-thumbnail" alt="..."/>
     </div>
-   
+    <div class="carousel-item"> 
+      <img src="carrusel3-100.jpg" class="d-block w-100 img-thumbnail" alt="..."/>
+    </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
     <span class="carousel-control-prev-icon bg-dark" aria-hidden="true"></span>
