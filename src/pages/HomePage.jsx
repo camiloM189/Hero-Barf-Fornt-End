@@ -42,27 +42,10 @@ export const HomePage = () => {
         }
   
          dispatch(enviarCorreo({Nombre,Comentario,Email,Telefono}));
-         const errorMessage = 'se ha enviado con exito'
+         const errorMessage = 'se ha enviado con exito';
   
-           Swal.fire('El correo se ha enviado con exito',errorMessage,'success')
-      // if(Nombre.length <= 0){
-      //   const errorMessage = 'El Nombre es necesario'
-
-      //   Swal.fire('Error al enviar el correo',errorMessage,'error')
-      //   return
-      // }
-      // if(Email.length <= 0){
-      //   const errorMessage = 'El Email es necesario'
-
-      //   Swal.fire('Error al enviar el correo',errorMessage,'error')
-        
-      //   return
-      // };
-
-      // dispatch(enviarCorreo({Nombre,Comentario,Email}));
-      // const errorMessage = 'se ha enviado con exito'
-
-      //   Swal.fire('El correo se ha enviado con exito',errorMessage,'success')
+           Swal.fire('El correo se ha enviado con exito',errorMessage,'success');
+           onResetForm();
   }
 
 
