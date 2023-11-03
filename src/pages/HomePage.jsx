@@ -68,7 +68,7 @@ export const HomePage = () => {
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link active " href="#productos" aria-current="page">Productos</a>
+            <a class="nav-link  " href="#productos" aria-current="page">Productos</a>
           </li>
           <li class="nav-item">
             <a class="nav-link " href="#que-es">¿Que es?</a>
